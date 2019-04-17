@@ -1,0 +1,13 @@
+{
+  "name": "zoffie",
+  "version": "0.1.0",
+  "description": "a set of microservice cluster dev tools.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/www.github.com/zoffie/zoffie.git"
+  },
+  "author": "erchoc <erchoc@163.com>",
+  "license": "MIT"
+}
